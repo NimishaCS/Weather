@@ -1,0 +1,23 @@
+[0m[[0minfo[0m] [0mPackaging /home/cloudera/spark/Weather/target/scala-2.10/weather-data-analysis_2.10-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	Preprocess$$anonfun$preprocessing$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cloudera/spark/Weather/target/scala-2.10/classes/Preprocess$$anonfun$preprocessing$1.class[0m
+[0m[[0mdebug[0m] [0m	Process$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cloudera/spark/Weather/target/scala-2.10/classes/Process$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	Process$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cloudera/spark/Weather/target/scala-2.10/classes/Process$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	Process.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cloudera/spark/Weather/target/scala-2.10/classes/Process.class[0m
+[0m[[0mdebug[0m] [0m	Process$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cloudera/spark/Weather/target/scala-2.10/classes/Process$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	Process$$anonfun$5.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cloudera/spark/Weather/target/scala-2.10/classes/Process$$anonfun$5.class[0m
+[0m[[0mdebug[0m] [0m	Process$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cloudera/spark/Weather/target/scala-2.10/classes/Process$.class[0m
+[0m[[0mdebug[0m] [0m	Process$$anonfun$4.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cloudera/spark/Weather/target/scala-2.10/classes/Process$$anonfun$4.class[0m
+[0m[[0mdebug[0m] [0m	Preprocess.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cloudera/spark/Weather/target/scala-2.10/classes/Preprocess.class[0m
+[0m[[0mdebug[0m] [0m	Preprocess$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cloudera/spark/Weather/target/scala-2.10/classes/Preprocess$.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
